@@ -31,6 +31,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'graphiql-rails'
 gem 'graphql'
 gem 'graphql-batch'
+gem "graphql-persisted_documents", :path => "/Users/xuorig/Code/graphql/graphql-persisted_documents"
+
+gem 'rack-cors'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
