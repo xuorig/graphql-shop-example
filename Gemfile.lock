@@ -1,8 +1,9 @@
 PATH
-  remote: /Users/xuorig/Code/graphql/graphql-persisted_documents
+  remote: /Users/xuorig/Code/graphql/engine/graphql-persisted_documents
   specs:
     graphql-persisted_documents (0.1.0)
-      graphql (~> 0.17.2)
+      graphql (~> 0.17.0)
+      rails (~> 5.0.0)
 
 GEM
   remote: https://rubygems.org/
